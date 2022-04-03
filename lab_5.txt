@@ -1,6 +1,6 @@
 first branch	//first commit
 first branch	//second commit
-first branch
+first branch	//third commit
 first branch
 
 second branch
